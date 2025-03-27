@@ -32,7 +32,7 @@ footer {
     border-radius: 5px;
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 }
-container-1440 {
+.container-1440 {
     max-width: 1440px;
 }
 
